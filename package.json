@@ -1,6 +1,6 @@
 {
   "name": "quickapp-dsls",
-  "version": "0.0.8",
+  "version": "0.1.2",
   "description": "dsls-for-quickapp",
   "scripts": {
     "build": "npm run native && npm run native:release",

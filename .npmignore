@@ -10,3 +10,6 @@ dist/debug
 dist/release/output
 
 **/*.js.map
+
+*.pdf
+*.apk
